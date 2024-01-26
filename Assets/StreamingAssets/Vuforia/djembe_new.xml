@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="djembe_new" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="djembe_news_assembly" assemblyId="4b04742d5a2f4ef2be33164bb39e2112">
+<Part name="djembe_new" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0440404 -0.0223524 5.33313" rotation="AD: -0.999817 -0.163726 0.166154 92.3614" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0471256 0.061086 5.32745" rotation="AD: -0.997634 0.290689 -0.330893 102.425" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.00746963 0.0631501 5.33055" rotation="AD: 0.769713 -1.07543 1.11801 226.298" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.00251842 0.244297 5.22148" rotation="AD: 0.918341 -0.546349 1.20517 208.985" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.0395985 0.254324 5.20439" rotation="AD: 0.573585 -0.90259 2.35932 189.684" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.0508788 0.228925 5.23285" rotation="AD: -0.497326 -0.944714 2.51471 172.176" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="0.0154371 0.205169 5.26088" rotation="AD: -0.963697 -0.386578 1.04816 152.911" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="-0.0232649 0.2198 5.24688" rotation="AD: 0.997906 0.159689 -0.472009 213.68" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

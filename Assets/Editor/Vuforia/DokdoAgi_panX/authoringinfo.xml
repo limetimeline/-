@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.9.3">
+<ModelTarget name="DokdoAgi_panX" targetId="84280a44c1bc49acb1fd9f1f6607b44f" version="14.0" toolVersion="10.9.3" bbox="-0.879900 -0.064611 -0.398505 0.537459 0.353195 0.689589" previewImage="84280a44c1bc49acb1fd9f1f6607b44f_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="DokdoAgi_panXs_assembly" assemblyId="b54aae2cccbe436e9281438df857ad4b">
+<Part name="DokdoAgi_panX" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.223411 0.138769 1.88844" rotation="AD: -0.799199 -0.648083 2.59943 171.847" image="DokdoAgi_panX_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.0975177 -0.0665631 1.82864" rotation="AD: -0.261664 -0.986679 4.81383 178.751" image="DokdoAgi_panX_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.0614762 -0.0432813 1.77925" rotation="AD: 0.797672 -0.639519 2.93959 186.383" image="DokdoAgi_panX_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.0393229 -0.0422818 1.76905" rotation="AD: 0.990839 -0.195437 0.983589 195.9" image="DokdoAgi_panX_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.214825 -0.0658286 2.03214" rotation="AD: -0.999566 0.206067 -0.206176 92.368" image="DokdoAgi_panX_GuideView_0004.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="-0.145542 0.17122 2.32918" rotation="AD: -0.894427 0.894427 -0.894427 120" image="DokdoAgi_panX_GuideView_0005.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="-0.171221 -0.145543 2.32918" rotation="AD: -1 0 0 90" image="DokdoAgi_panX_GuideView_0006.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
