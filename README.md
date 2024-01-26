@@ -1,2 +1,2 @@
-# Djemjem
+# 젬잼
 ![Djemjem](/banner.png)
